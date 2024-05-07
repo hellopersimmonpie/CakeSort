@@ -1,0 +1,4 @@
+#Ignore non essentials
+*.opendb
+*.db
+*.ipch
